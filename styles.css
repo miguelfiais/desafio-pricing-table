@@ -180,7 +180,7 @@ h4{
 @media screen and (max-width: 700px){
 
     .intro h2{
-        max-width: 341px;
+        width: auto;
         font-size: 40px;
         line-height: 50px;
         margin-top: 25px;
